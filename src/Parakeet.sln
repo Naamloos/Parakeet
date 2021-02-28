@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parakeet", "Parakeet\Parakeet.csproj", "{20AD9C50-C70F-442C-80C0-67C728A851CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AD9C50-C70F-442C-80C0-67C728A851CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AD9C50-C70F-442C-80C0-67C728A851CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AD9C50-C70F-442C-80C0-67C728A851CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AD9C50-C70F-442C-80C0-67C728A851CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DB6112-AF2F-4E9C-912F-B408DA4F3063}
+	EndGlobalSection
+EndGlobal
